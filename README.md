@@ -80,19 +80,19 @@ Built a client-deployable AI resume screening app (Python + Groq AI + LLaMA 3); 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namitha938&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Namitha938&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Namitha938&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Namitha938&theme=tokyonight)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namitha938&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Namitha938&layout=compact&theme=tokyonight)
 
 ---
 
