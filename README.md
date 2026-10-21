@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:063b6e,100:0b5394&height=240&section=header&text=Namitha%20Singu&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%26%20Multi-Agent%20Systems%20%7C%20Computer%20Vision&descSize=18&descAlignY=60" alt="Namitha Singu banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+LLM+pipelines+%26+multi-agent+systems;Shipping+production-ready+AI+applications;Final-year+B.Tech+AI+%26+ML+%7C+Hyderabad,+India" alt="Typing SVG" />
+<img width="100%" src="https://raw.githubusercontent.com/Namitha938/Namitha938/main/banner.svg" alt="Namitha Singu" />
 
 <br/><br/>
 
@@ -131,6 +129,5 @@ Swarna Bharathi Institute of Science and Technology, Khammam · Aug 2023 – May
 
 ⭐ *Always building, always learning.* ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5394,100:020024&height=100&section=footer" alt="footer" />
 
 </div>
