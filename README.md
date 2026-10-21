@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Namitha938/Namitha938/main/banner.svg" alt="Namitha Singu" />
+<img width="100%" src="banner.png" alt="Namitha Singu" />
 
 <br/><br/>
 
